@@ -1,12 +1,12 @@
 
 
 [org.mate.Marco.general]
-theme='Graphite-red-Dark'
+theme='Graphite-Dark'
 
 
 [org.mate.interface]
-gtk-theme='Graphite-red-Dark'
-icon-theme='Citrus-red-dark'
+gtk-theme='Graphite-Dark'
+icon-theme='GreyStone'
 #icon-theme='Numix-Circle'
 
 
